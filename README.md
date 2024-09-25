@@ -18,6 +18,6 @@ ___
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-![Kenny Caballero GitHub stats](https://github-readme-stats.vercel.app/api?username=KennyCaballero&show_icons=true&theme=transparent)
+![Kenny Caballero3 GitHub stats](https://github-readme-stats.vercel.app/api?username=KennyCaballero3&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KennyCaballero&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KennyCaballero3&layout=compact)
